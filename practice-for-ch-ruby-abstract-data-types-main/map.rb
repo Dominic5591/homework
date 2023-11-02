@@ -1,3 +1,5 @@
+# this one is from the solutions..... :(  no time..
+
 class Map
   def initialize
     @array = []
